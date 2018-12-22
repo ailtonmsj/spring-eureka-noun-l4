@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: noun
+  application:
+    name: spring-noun-l4
+  cloud:
+    config:
+      uri: http://localhost:8001
